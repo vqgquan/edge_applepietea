@@ -1,0 +1,14 @@
+                 precision    recall  f1-score   support
+
+        Healthy       0.97      1.00      0.99       600
+         Insect       0.99      0.98      0.98       313
+     Leaf scald       0.99      0.98      0.98       393
+     Rice Blast       0.99      0.99      0.99       668
+Rice Leaffolder       1.00      0.98      0.99       248
+   Rice Stripes       0.99      0.97      0.98       273
+    Rice Tungro       0.98      0.98      0.98       267
+           rice       1.00      1.00      1.00        19
+
+       accuracy                           0.98      2781
+      macro avg       0.99      0.98      0.99      2781
+   weighted avg       0.98      0.98      0.98      2781
